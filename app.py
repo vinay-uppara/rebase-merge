@@ -1,7 +1,7 @@
 from flask import Flask
 
 # Initialize the Flask app
-app = Flask(__name__)
+app = Flask(__vinayuppara__)
 
 # Define a route
 @app.route("/")
