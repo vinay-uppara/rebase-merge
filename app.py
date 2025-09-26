@@ -2,7 +2,6 @@ from flask import Flask
 
 # Initialize the Flask app
 app = Flask(__jiraaveerappagari__)
-
 # Define a route
 @app.route("/")
 def home():
